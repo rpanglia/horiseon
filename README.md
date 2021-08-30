@@ -9,14 +9,18 @@ Marketing Agency Horiseon was seeking a junior developer-in-training to ensure w
 
 Speaking of pictures (...or moving ones), here is a look into the final product.
 
-Option 1:
+Option A:
 <iframe src="https://drive.google.com/file/d/1cqOgGtsWsvNEHyEJV4LO3FDiCtY2f5yO/preview" width="640" height="480" alt="Video of Horiseon website from header to footer (top of website page to bottom of website page"></iframe>
 
-Option 2:
+Option B:
 ```md
-![GraficsInterchange Format or GIF of Horiseon website](assets/images/Horiseon-marketing.gif)
+![Grafics Interchange Format or GIF of Horiseon website](assets/images/Horiseon-marketing.gif)
 ```
+Option C Part 1:
 
+```md
+![Horiseon Website]
+(assets/images)
 
 **Website Features**
 
