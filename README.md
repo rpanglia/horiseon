@@ -19,8 +19,12 @@ Option B:
 Option C Part 1:
 
 ```md
-![Horiseon Website]
-(assets/images)
+![Horiseon-website](assets/images/overview-Horiseon.png)
+```
+Option C Part 2:
+```md
+![horiseon-website-footer](assets/images/footer-overview-horiseon.png)
+
 
 **Website Features**
 
